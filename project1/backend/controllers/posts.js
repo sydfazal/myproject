@@ -1,3 +1,5 @@
+//These are the functions for the Routes
+
 import PostMessage from '../Models/postMessage.js'
 
 export const getPosts = async (req, res) => {
